@@ -2,4 +2,4 @@
 # firstrepo
 this is my first git repository
 <br>
-author-Nilanjana Dahare
+Author-Nilanjana Dahare
